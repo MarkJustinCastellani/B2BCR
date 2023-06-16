@@ -1,4 +1,4 @@
-// Code for the B2B Marketplace
+// Updated code for the B2B Marketplace
 // Connects local cooks-proteges in City-B to local-beloved neighborhood restaurants in City-A
 
 // Function to process and fulfill orders
